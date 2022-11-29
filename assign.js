@@ -6,5 +6,7 @@ for(let i=2;i<19;i++){
       break;
     }
 }if(flage==1){
-    console.log("number is prime")
-  }
+    console.log("number is not prime")
+  }else{
+     console.log("number is prime")
+}
