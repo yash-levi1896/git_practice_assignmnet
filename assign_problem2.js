@@ -1,6 +1,6 @@
 let x="madam";
 let char="";
-for(let i=0;i<x.length;i++);{
+for(let i=x.length-1;i<=0;i--);{
      char+=x[i]; 
 }if(char==x){
     console.log("Yes")    
